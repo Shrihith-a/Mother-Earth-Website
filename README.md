@@ -9,7 +9,7 @@ This project involves creating an interactive webpage that provides information 
 
 
 ## Project Structure
-my_website/ ├── index_earth.html ├── css/ │ └── styles.css ├── images/ │ └── earth.jpg └── README.md
+Mother earth website / ├── index_earth.html ├── css/ │ └── styles.css ├── images/ │ └── earth.jpg └── README.md
 
 ## Features 
 - **Main Heading**: Welcomes users with "Hello world!"
